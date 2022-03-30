@@ -123,6 +123,9 @@ ggpairs(suelo,
         upper = list(continuous = myStyleCORstar))+
   Mytheme
 ```
+![Image text](https://raw.githubusercontent.com/pVillaGuerrero/GGally---ggpairs/main/000001.png)
+
+## Modificación del gráfico de dispersión
 
 ```{r warning=FALSE, message=FALSE}
 mySMOOTH <- function(data, mapping, ...) {
@@ -146,6 +149,7 @@ ggpairs(suelo,
         upper = list(continuous = myStyleCORstar))+
   Mytheme
 ```
+![Image text](https://raw.githubusercontent.com/pVillaGuerrero/GGally---ggpairs/main/000002.png)
 
 ## Modificación de la correlación por colores
 
@@ -216,4 +220,4 @@ ggpairs(
   axisLabels = "none") 
 ```
 
-
+![Image text](https://raw.githubusercontent.com/pVillaGuerrero/GGally---ggpairs/main/000003.png)
