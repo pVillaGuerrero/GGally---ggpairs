@@ -221,3 +221,8 @@ ggpairs(
 ```
 
 ![Image text](https://raw.githubusercontent.com/pVillaGuerrero/GGally---ggpairs/main/000003.png)
+
+# REFERENCIAS
+
+ - https://github.com/schloerke
+ - https://github.com/ggobi/ggally/issues/139
